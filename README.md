@@ -2,3 +2,4 @@
 -Estado del proyecto: En construccion.
 
 Para aprender el uso de GitHub debes parcticar
+Sistema de registro
